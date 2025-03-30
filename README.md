@@ -5,7 +5,11 @@ PROPHET: An Inferable Future Forecasting Benchmark with Causal Intervened Likeli
 
 ### **Overview**  
 
-PROPHET is a novel benchmark designed to evaluate the future forecasting capabilities of AI systems, focusing on **inferability**—ensuring predictions are grounded in sufficient supporting evidence. Unlike existing benchmarks, PROPHET rigorously filters questions using proposed **Causal Intervened Likelihood (CIL)**, a statistical measure that quantifies how news articles support answers.  
+PROPHET is a benchmark designed to evaluate the future forecasting capabilities of AI systems, focusing on **inferability**—ensuring predictions are grounded in sufficient supporting evidence. Unlike existing benchmarks, PROPHET rigorously filters questions using proposed **Causal Intervened Likelihood (CIL)**, a statistical measure that quantifies how news articles support answers.  
+
+<div align="center">
+  <img src="https://github.com/TZWwww/PROPHET/blob/main/IMG/overview" width="500"/>
+</div>
 
 ---
 
