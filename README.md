@@ -38,4 +38,4 @@ PROPHET is a benchmark designed to evaluate the future forecasting capabilities 
 - Ideal for researchers developing RAG systems, causal reasoning models, or forecasting tools.  
 
 ---  
-We are now addressing the Arxiv issue, the paper is coming soon!!!
+We are now addressing the Arxiv issue. We temporarily put the paper here: https://github.com/TZWwww/PROPHET/blob/main/paper.pdf
